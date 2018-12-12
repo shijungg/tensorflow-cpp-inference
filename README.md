@@ -45,7 +45,7 @@ libopencv_ml.so.3.4.4          libprotobuf-lite.so.14.0.0    python3.6
 
 Set line 13 - 18, pointing to your include path.
 
-Build and run
+Build and run.
 
 ```shell
 cd build
