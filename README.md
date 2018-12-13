@@ -1,4 +1,4 @@
-# Tensorflow C++ MNIST inference example  ![](https://img.shields.io/badge/language-C++-blue.svg) [![Build Status](https://travis-ci.org/shijungg/tensorflow-cpp-inference.svg?branch=master)](https://travis-ci.org/shijungg/tensorflow-cpp-inference)
+# Tensorflow C++ MNIST inference example  ![](https://img.shields.io/badge/language-C++-blue.svg) ![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)
 
 ## Overview
 
