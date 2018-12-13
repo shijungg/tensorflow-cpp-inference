@@ -1,4 +1,4 @@
-# Tensorflow C++ MNIST inference example
+# Tensorflow C++ MNIST inference example[![Build Status](https://travis-ci.org/shijungg/tensorflow-cpp-inference.svg?branch=master)](https://travis-ci.org/shijungg/tensorflow-cpp-inference)
 
 ## Overview
 
