@@ -1,7 +1,6 @@
 language: cpp
-install: cmake
 script:
- - cd build
+ - cd build/
  - cmake ..
  - make
 
