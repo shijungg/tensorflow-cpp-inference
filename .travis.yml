@@ -1,6 +1,5 @@
 language: cpp
 script:
- - cd build/
- - cmake ..
+ - cmake
  - make
 
