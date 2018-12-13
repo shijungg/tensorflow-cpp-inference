@@ -1,1 +1,7 @@
-language: c++
+language: cpp
+install: cmake
+script:
+ - cd build
+ - cmake ..
+ - make
+
